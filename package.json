@@ -52,6 +52,7 @@
     "test": "npm run test:unit"
   },
   "dependencies": {
+    "@datr.tech/parcel-model-schemas-common-fields": "^0.3.1",
     "@datr.tech/parcel-model-schemas-dolomite": "^0.3.1",
     "@datr.tech/parcel-model-schemas-entity": "^0.3.1",
     "@datr.tech/parcel-model-schemas-freight": "^0.3.1",
